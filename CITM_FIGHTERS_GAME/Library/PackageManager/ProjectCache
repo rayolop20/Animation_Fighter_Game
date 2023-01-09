@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638088757720000000
-    m_Hash: 2520243281
+      ticks: 638088763240000000
+    m_Hash: 1918354212
   m_LockFileStatus:
     m_FilePath: D:/documentos/GitHub/Animation_Fighter_Game/CITM_FIGHTERS_GAME/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638088758940000000
-    m_Hash: 3675889977
+      ticks: 638088763660000000
+    m_Hash: 3585638098
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: D:/documentos/GitHub/Animation_Fighter_Game/CITM_FIGHTERS_GAME/Packages
 m_EditorVersion: 2021.3.14f1 (eee1884e7226)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.17
+- packageId: com.unity.collab-proxy@1.17.6
   testable: 0
   isDirectDependency: 1
-  version: 1.15.17
+  version: 1.17.6
   source: 1
-  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.collab-proxy@1.15.17
+  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.collab-proxy@1.17.6
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -157,23 +157,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637871149130000000
+  datePublishedTicks: 638009928240000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: fd95d00c5a7961beec85ee190181439d53fb0dba
+    revision: 3744f24b80468ef1336fbc234c93625c4a6287b0
     path: 
   unityLifecycle:
     version: 1.17.6
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.14
+- packageId: com.unity.ide.rider@3.0.16
   testable: 0
   isDirectDependency: 1
-  version: 3.0.14
+  version: 3.0.16
   source: 1
-  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.ide.rider@3.0.14
+  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.ide.rider@3.0.16
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -246,23 +246,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637861245770000000
+  datePublishedTicks: 638011833630000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: e6bfc84a08a0876a2c20ec2ee0883b5ece331dfd
+    revision: 9b718d58b8f7a34e564f2c79af6d2ca788e929d4
     path: 
   unityLifecycle:
     version: 3.0.16
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.15
+- packageId: com.unity.ide.visualstudio@2.0.16
   testable: 0
   isDirectDependency: 1
-  version: 2.0.15
+  version: 2.0.16
   source: 1
-  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.ide.visualstudio@2.0.15
+  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -326,13 +326,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637841884840000000
+  datePublishedTicks: 637914298680000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: ca1ece42f5a2c5484ba15a15bb975ccc1f6a1a3c
+    revision: c01855ef6461b821ab0226135e96a4ee86de96be
     path: 
   unityLifecycle:
     version: 2.0.16
@@ -399,12 +399,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.inputsystem@1.3.0
+- packageId: com.unity.inputsystem@1.4.4
   testable: 0
   isDirectDependency: 1
-  version: 1.3.0
+  version: 1.4.4
   source: 1
-  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.inputsystem@1.3.0
+  resolvedPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME\Library\PackageCache\com.unity.inputsystem@1.4.4
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -492,13 +492,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637769972190000000
+  datePublishedTicks: 638030660210000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: 76d3fd182183dff9e9793431de614fd1e69e363c
+    revision: 59db7b7bcc31bad254947e3189e6ec125f67e3e7
     path: 
   unityLifecycle:
     version: 1.4.4
