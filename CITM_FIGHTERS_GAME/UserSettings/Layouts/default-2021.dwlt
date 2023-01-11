@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 618
     height: 561
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 72
+  controlID: 19
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 113
+  controlID: 111
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 114
+  controlID: 112
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,14 +336,14 @@ MonoBehaviour:
     - {fileID: 2072611718690271064, guid: 7e7ef47dbf646fe46a4101ad47cc6a19, type: 2}
     - {fileID: -867384659124041884, guid: 602cd66fffec7c34597b51d530c2d609, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.27725473
+    - e00: 0.36549062
       e01: 0
       e02: 0
-      e03: 51.446793
+      e03: -44.48291
       e10: 0
-      e11: 0.27725473
+      e11: 0.36549062
       e12: 0
-      e13: 282.5981
+      e13: 340.49994
       e20: 0
       e21: 0
       e22: 1
@@ -425,22 +425,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Scripts
+    - Assets/AzirAnimations
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Scripts
+  - Assets/AzirAnimations
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64590000
-    m_LastClickedID: 22884
-    m_ExpandedIDs: 000000005c59000000ca9a3b
+    m_SelectedIDs: b2590000
+    m_LastClickedID: 22962
+    m_ExpandedIDs: 000000008c590000bc5900004c5a00004e5a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,7 +468,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c590000
+    m_ExpandedIDs: 000000008c590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,7 +496,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c623000088540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,7 +555,7 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
-    m_CachedPref: -160
+    m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
@@ -596,9 +596,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3c060000
+      m_SelectedIDs: 68630000
       m_LastClickedID: 0
-      m_ExpandedIDs: 00fbffff02fbffff0e5100006e570000
+      m_ExpandedIDs: 02fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -933,9 +933,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.078747354, y: -0.15576215, z: 0.012447663, w: -0.984572}
   m_Size:
-    m_Target: 1.0009733
+    m_Target: 1.7739211
     speed: 2
-    m_Value: 1.0009733
+    m_Value: 1.7739211
   m_Ortho:
     m_Target: 0
     speed: 2
