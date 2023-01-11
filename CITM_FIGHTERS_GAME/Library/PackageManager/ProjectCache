@@ -5,11 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638088828560000000
-=======
       ticks: 638090528120000000
->>>>>>> main
     m_Hash: 70766026
   m_LockFileStatus:
     m_FilePath: D:/documentos/GitHub/Animation_Fighter_Game/CITM_FIGHTERS_GAME/Packages/packages-lock.json
@@ -17,11 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638090490440000000
-=======
       ticks: 638090529680000000
->>>>>>> main
     m_Hash: 3585638098
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
