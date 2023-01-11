@@ -6,7 +6,27 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_material3
+    second: {fileID: 2100000, guid: 19e1653624f907e4d8ec477627f093fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_material
+    second: {fileID: 2100000, guid: 112f0855891908d4d80651ff30384273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_material3
+    second: {fileID: 2100000, guid: 2c0644daaaad4e14891a36fe27c4e761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scythe_mat
+    second: {fileID: 2100000, guid: b1470facfb4392f43a211c15f452e6ad, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
