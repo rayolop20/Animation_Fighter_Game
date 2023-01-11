@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 72
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 113
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 20
+  controlID: 114
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,14 +336,14 @@ MonoBehaviour:
     - {fileID: 2072611718690271064, guid: 7e7ef47dbf646fe46a4101ad47cc6a19, type: 2}
     - {fileID: -867384659124041884, guid: 602cd66fffec7c34597b51d530c2d609, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.29790562
+    - e00: 0.27725473
       e01: 0
       e02: 0
-      e03: -15.088379
+      e03: 51.446793
       e10: 0
-      e11: 0.29790562
+      e11: 0.27725473
       e12: 0
-      e13: 298.6869
+      e13: 282.5981
       e20: 0
       e21: 0
       e22: 1
@@ -352,14 +352,14 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 0.19263157
+    - e00: 0.41789475
       e01: 0
       e02: 0
-      e03: 5.3684235
+      e03: -5.894745
       e10: 0
-      e11: 0.19263157
+      e11: 0.41789475
       e12: 0
-      e13: 227.7
+      e13: 210.8
       e20: 0
       e21: 0
       e22: 1
@@ -425,21 +425,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AzirAnimations
+    - Assets/_Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AzirAnimations
+  - Assets/_Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\documentos\GitHub\Animation_Fighter_Game\CITM_FIGHTERS_GAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a590000
-    m_LastClickedID: 22890
+    m_SelectedIDs: 64590000
+    m_LastClickedID: 22884
     m_ExpandedIDs: 000000005c59000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -559,7 +559,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 193
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -596,9 +596,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b6630000
+      m_SelectedIDs: 3c060000
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: 00fbffff02fbffff0e5100006e570000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -880,9 +880,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.6454115, y: 2.5825417, z: -3.7777982}
+    m_Target: {x: -0.8525454, y: 1.5086938, z: -4.464543}
     speed: 2
-    m_Value: {x: 0.6454115, y: 2.5825417, z: -3.7777982}
+    m_Value: {x: -0.8525454, y: 1.5086938, z: -4.464543}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -929,13 +929,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.19536181, y: 0.12670258, z: -0.025467256, w: -0.9721898}
+    m_Target: {x: -0.07874857, y: -0.15576455, z: 0.0124478545, w: -0.98458713}
     speed: 2
-    m_Value: {x: -0.19681779, y: 0.1266629, z: -0.025657017, w: -0.9718853}
+    m_Value: {x: -0.078747354, y: -0.15576215, z: 0.012447663, w: -0.984572}
   m_Size:
-    m_Target: 4.9604926
+    m_Target: 1.0009733
     speed: 2
-    m_Value: 4.746883
+    m_Value: 1.0009733
   m_Ortho:
     m_Target: 0
     speed: 2
